@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fxlipx
-- 👀 I’m interested in ur mom
+- 👀 I’m interested pc Hardware/Software
 - 🌱 I’m currently learning Python
 
 
